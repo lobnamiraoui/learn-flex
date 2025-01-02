@@ -4,24 +4,24 @@ margin: 0%;
 .flex-container {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content:space-around;
     align-items: center;
-    height: 40px;
-    width: 40px;
+    height: 400px;
+    width: 400px;
     border: 1px solid cornflowerblue;
 
 }
-.items1{
+.flex-items1{
     height: 40px;
     width: 40px;
     background-color: aqua;
 }
-.items2{
+.flex-items2{
     height: 40px;
     width: 40px;
     background-color:red;
 }
-.items3{
+.flex-items3{
     height: 40px;
     width: 40px;
     background-color:green;
